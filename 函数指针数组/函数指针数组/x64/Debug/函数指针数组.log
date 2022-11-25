@@ -1,0 +1,15 @@
+﻿  函数指针数组.c
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(43,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(43,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(146,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(146,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(149,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(149,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(152,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(152,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(155,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(155,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(158,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\函数指针数组\函数指针数组.c(158,9): message : 请考虑在格式字符串中使用“%zd”
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\vs2017Data\Restart study of  C++ 18~25\函数指针数组\x64\Debug\函数指针数组.exe : fatal error LNK1120: 1 个无法解析的外部命令

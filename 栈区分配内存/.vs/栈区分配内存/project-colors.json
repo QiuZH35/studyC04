@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4a56392-dd18-42f1-b507-88e5bd375ed6": {
+      "ProjectGuid": "a4a56392-dd18-42f1-b507-88e5bd375ed6",
+      "DisplayName": "栈区分配内存",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

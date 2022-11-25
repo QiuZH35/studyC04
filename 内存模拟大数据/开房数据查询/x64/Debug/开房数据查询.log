@@ -1,0 +1,4 @@
+﻿  开房.c
+D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\开房数据查询\开房.c(59,12): warning C4098: “loadfromflie”:“void”函数返回值
+D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\开房数据查询\开房.c(69,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  开房数据查询.vcxproj -> D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\x64\Debug\开房数据查询.exe

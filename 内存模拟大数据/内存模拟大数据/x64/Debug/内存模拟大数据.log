@@ -1,0 +1,5 @@
+﻿  QQ.c
+D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\内存模拟大数据\QQ.c(32,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\内存模拟大数据\QQ.c(99,12): warning C4098: “loadfromflie”:“void”函数返回值
+D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\内存模拟大数据\QQ.c(109,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  内存模拟大数据.vcxproj -> D:\vs2017Data\Restart study of  C++ 18~25\内存模拟大数据\x64\Debug\内存模拟大数据.exe

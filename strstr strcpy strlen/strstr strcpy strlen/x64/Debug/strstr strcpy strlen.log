@@ -1,0 +1,8 @@
+﻿  字符串常见函数strstr.c
+D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\strstr strcpy strlen\字符串常见函数strstr.c(30,19): warning C4090: “=”: 不同的“const”限定符
+D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\strstr strcpy strlen\字符串常见函数strstr.c(15,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\strstr strcpy strlen\字符串常见函数strstr.c(16,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\strstr strcpy strlen\字符串常见函数strstr.c(85,15): warning C4090: “return”: 不同的“const”限定符
+D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\strstr strcpy strlen\字符串常见函数strstr.c(52,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\strstr strcpy strlen\字符串常见函数strstr.c(53,1): warning C4090: “初始化”: 不同的“const”限定符
+  strstr strcpy strlen.vcxproj -> D:\vs2017Data\Restart study of  C++ 18~25\strstr strcpy strlen\x64\Debug\strstr strcpy strlen.exe
